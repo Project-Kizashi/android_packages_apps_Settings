@@ -118,12 +118,12 @@
         settings:controller="com.android.settings.accounts.TopLevelAccountEntryPreferenceController"/>
 
     <Preference
-        android:key="top_level_kasumi"
-        android:title="@string/kasumi_labs"
-        android:summary="@string/kasumi_labs_desc"
-        android:icon="@drawable/ic_homepage_kasumi"
+        android:key="top_level_kizashi"
+        android:title="@string/kizashi_labs"
+        android:summary="@string/kizashi_labs_desc"
+        android:icon="@drawable/ic_homepage_kizashi"
         android:order="-25"
-        android:fragment="com.android.settings.kasumi.KasumiLabs"/>
+        android:fragment="com.android.settings.kizashi.KizashiLabs"/>
     
     <Preference
         android:key="top_level_accessibility"

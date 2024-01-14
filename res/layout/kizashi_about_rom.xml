@@ -17,7 +17,7 @@
 */
 -->
 <RelativeLayout
-	android:id="@+id/kasumi_about_rom"
+	android:id="@+id/kizashi_about_rom"
 	android:layout_gravity="center_vertical"
 	android:gravity="center"
         android:layout_width="match_parent"
@@ -26,12 +26,12 @@
 	xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <ImageView
-    	android:id="@+id/kasumi_verbanner"
-    	android:layout_width="250dp"
-    	android:layout_height="250dp"
+    	android:id="@+id/kizashi_verbanner"
+    	android:layout_width="175dp"
+    	android:layout_height="175dp"
     	android:layout_marginTop="25dp"
     	android:layout_marginBottom="25dp"
-    	android:src="@drawable/kasumi_verbanner"
+    	android:src="@drawable/kizashi_verbanner"
     	android:antialias="true"
     	android:scaleType="fitXY"
     	android:layout_centerVertical="true"
@@ -47,62 +47,62 @@
             android:layout_marginLeft="38dp"
             android:layout_marginRight="10dp"
     		android:layout_centerVertical="true"
-            android:layout_toEndOf="@+id/kasumi_verbanner">
+            android:layout_toEndOf="@+id/kizashi_verbanner">
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
         		android:layout_marginTop="12dp"
-        		android:text="@string/kasumi_rom_name"
-        		style="@style/kasumi_cardview_text_primary"/>
+        		android:text="@string/kizashi_rom_name"
+        		style="@style/kizashi_cardview_text_primary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
         		android:layout_marginBottom="12dp"
-        		android:text="@string/kasumi_rom_name_summary"
-        		style="@style/kasumi_cardview_text_secondary"/>
+        		android:text="@string/kizashi_rom_name_summary"
+        		style="@style/kizashi_cardview_text_secondary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
-        		android:text="@string/kasumi_rom_version"
-        		style="@style/kasumi_cardview_text_primary"/>
+        		android:text="@string/kizashi_rom_version"
+        		style="@style/kizashi_cardview_text_primary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
        			android:layout_marginBottom="12dp"
-        		android:text="@string/kasumi_rom_version_summary"
-        		style="@style/kasumi_cardview_text_secondary"/>
+        		android:text="@string/kizashi_rom_version_summary"
+        		style="@style/kizashi_cardview_text_secondary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
-        		android:text="@string/kasumi_codename"
-        		style="@style/kasumi_cardview_text_primary"/>
-        	<TextView
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:layout_marginBottom="12dp"
-        		android:text="@string/kasumi_codename_summary"
-        		style="@style/kasumi_cardview_text_secondary"/>
-        	<TextView
-        		android:layout_width="fill_parent"
-        		android:layout_height="wrap_content"
-        		android:text="@string/kasumi_founder"
-        		style="@style/kasumi_cardview_text_primary"/>
+        		android:text="@string/kizashi_codename"
+        		style="@style/kizashi_cardview_text_primary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
         		android:layout_marginBottom="12dp"
-        		android:text="@string/kasumi_founder_summary"
-        		style="@style/kasumi_cardview_text_secondary"/>
+        		android:text="@string/kizashi_codename_summary"
+        		style="@style/kizashi_cardview_text_secondary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
-        		android:text="@string/kasumi_tg_chat"
-        		style="@style/kasumi_cardview_text_primary"/>
+        		android:text="@string/kizashi_founder"
+        		style="@style/kizashi_cardview_text_primary"/>
         	<TextView
         		android:layout_width="fill_parent"
         		android:layout_height="wrap_content"
         		android:layout_marginBottom="12dp"
-        		android:text="@string/kasumi_tg_chat_summary"
-        		style="@style/kasumi_cardview_text_secondary"/>
+        		android:text="@string/kizashi_founder_summary"
+        		style="@style/kizashi_cardview_text_secondary"/>
+        	<TextView
+        		android:layout_width="fill_parent"
+        		android:layout_height="wrap_content"
+        		android:text="@string/kizashi_tg_chat"
+        		style="@style/kizashi_cardview_text_primary"/>
+        	<TextView
+        		android:layout_width="fill_parent"
+        		android:layout_height="wrap_content"
+        		android:layout_marginBottom="12dp"
+        		android:text="@string/kizashi_tg_chat_summary"
+        		style="@style/kizashi_cardview_text_secondary"/>
     	</LinearLayout>
 </RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About ROM Dashboard -->
+    <string name="kizashi_rom_name">ROM Name</string>
+    <string name="kizashi_rom_name_summary">Project Kizashi</string>
+    <string name="kizashi_rom_version">ROM Version</string>
+    <string name="kizashi_rom_version_summary">1.0</string>
+    <string name="kizashi_codename">Codename</string>
+    <string name="kizashi_codename_summary">Relay</string>
+    <string name="kizashi_founder">ROM Founder</string>
+    <string name="kizashi_founder_summary">"PrabhatProxy"</string>
+    <string name="kizashi_tg_chat">Telegram</string>
+    <string name="kizashi_tg_chat_summary">prabhat_proxy</string>
+
+</resources>

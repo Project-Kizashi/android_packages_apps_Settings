@@ -30,9 +30,9 @@
 
     <!-- About ROM dashboard -->
     <PreferenceScreen
-        android:key="kasumi_about_rom" 
+        android:key="kizashi_about_rom" 
         android:order="1"
-        android:layout="@layout/kasumi_about_rom"
+        android:layout="@layout/kizashi_about_rom"
         android:selectable="false"
         settings:controller="com.android.settings.deviceinfo.InternalPreferenceController"/>
 

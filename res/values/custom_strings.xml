@@ -170,9 +170,9 @@
     <string name="face_redo_warning_msg">Do you want to remove the existing face scan and create a new one?</string>
 
     <!-- Settings version info -->
-    <string name="kasumi_version">Kasumi version</string>
-    <string name="kasumi_maintainer">Masked hero!</string>
-    <string name="kasumi_maintainer_title">Device maintainer</string>
+    <string name="kizashi_version">Kizashi version</string>
+    <string name="kizashi_maintainer">Masked hero!</string>
+    <string name="kizashi_maintainer_title">Device maintainer</string>
 
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Kill app button</string>
@@ -263,10 +263,10 @@
     <string name="ticker_tick_duration_title">Ticker duration</string>
     
     <!-- Labs -->
-    <string name="kasumi_labs">Kasumi\'s Closet</string>
-    <string name="kasumi_labs_desc">Dress Kasumi up however you want~!</string>
-    <string name="kasumi_nshade_category_title">Notification shade</string>
-    <string name="kasumi_statusbar_category_title">Statusbar</string>
+    <string name="kizashi_labs">Flaura</string>
+    <string name="kizashi_labs_desc">Pick the flaura~!</string>
+    <string name="kizashi_nshade_category_title">Notification shade</string>
+    <string name="kizashi_statusbar_category_title">Statusbar</string>
 
     <!-- Omni Jaws -->
     <string name="weather_title">Weather</string>

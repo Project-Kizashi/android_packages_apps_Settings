@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.android.settings.kasumi;
+package com.android.settings.kizashi;
 
 import android.os.Bundle;
 
@@ -22,12 +22,12 @@ import com.android.internal.logging.nano.MetricsProto;
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
 
-public class KasumiLabs extends SettingsPreferenceFragment {
+public class KizashiLabs extends SettingsPreferenceFragment {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
 
-    addPreferencesFromResource(R.xml.kasumi_labs);
+    addPreferencesFromResource(R.xml.kizashi_labs);
   }
 
   @Override

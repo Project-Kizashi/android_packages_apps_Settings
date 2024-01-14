@@ -169,11 +169,6 @@
     <string name="face_redo_confirm_btn">Tekrarla</string>
     <string name="face_redo_warning_msg">Mevcut yüz taramasını kaldırıp yeni bir tane oluşturmak istediğinizden emin misiniz?</string>
 
-    <!-- Settings version info -->
-    <string name="kasumi_version">Kasumi sürümü</string>
-    <string name="kasumi_maintainer">Maskeli kahraman!</string>
-    <string name="kasumi_maintainer_title">Cihaz geliştiricisi</string>
-
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Uygulama durdurma butonu</string>
     <string name="notification_guts_kill_app_button_summary">Bildirimin basılı tutma menüsünde uygulamayı zorla durdurmak için buton göster</string>
@@ -262,12 +257,6 @@
     <string name="ticker_animation_mode_scroll">Kayan</string>
     <string name="ticker_tick_duration_title">Şerit süresi</string>
     
-    <!-- Labs -->
-    <string name="kasumi_labs">Kasumi\'nin Dolabı</string>
-    <string name="kasumi_labs_desc">Kasumi\'yi istediğiniz gibi giydirin~!</string>
-    <string name="kasumi_nshade_category_title">Bildirim paneli</string>
-    <string name="kasumi_statusbar_category_title">Durum çubuğu</string>
-
     <!-- Omni Jaws -->
     <string name="weather_title">Hava durumu</string>
     <string name="weather_summary">OmniJaws Hava Durumu Ayarları</string>

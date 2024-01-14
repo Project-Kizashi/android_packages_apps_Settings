@@ -20,7 +20,7 @@
 <ImageView
 	android:layout_width="match_parent"
  	android:layout_height="match_parent"
-	android:src="@drawable/kasumi_verbanner"
+	android:src="@drawable/kizashi_verbanner"
 	android:adjustViewBounds="true"
 	android:scaleType="centerInside" />
 </LinearLayout>
