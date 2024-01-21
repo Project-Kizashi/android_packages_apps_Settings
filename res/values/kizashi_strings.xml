@@ -12,6 +12,6 @@
     <string name="kizashi_founder">ROM Founder</string>
     <string name="kizashi_founder_summary">"PrabhatProxy"</string>
     <string name="kizashi_tg_chat">Telegram</string>
-    <string name="kizashi_tg_chat_summary">prabhat_proxy</string>
+    <string name="kizashi_tg_chat_summary">https://t.me/ProjectKizashi</string>
 
 </resources>
